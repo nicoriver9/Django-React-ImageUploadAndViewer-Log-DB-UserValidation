@@ -1,0 +1,4 @@
+Django>=3.0
+djangorestframework>=3.12
+python-decouple>=3.5
+cx-Oracle>=8.2 ; platform_system == "Linux" or platform_system == "Darwin"
